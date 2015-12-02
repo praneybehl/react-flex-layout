@@ -1,5 +1,5 @@
 {
-  "name": "react-layout-components",
+  "name": "react-flex-layout",
   "version": "1.0.0",
   "description": "Layout Components for React based on Flexbox",
   "main": "lib/index.js",

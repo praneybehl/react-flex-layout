@@ -1,6 +1,6 @@
 {
   "name": "react-layout-components",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Layout Components for React based on Flexbox",
   "main": "lib/index.js",
   "files": [
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rofrischmann/react-layout-components/"
+    "url": "https://github.com/praneybehl/react-flex-layout"
   },
   "keywords": [
     "react-component",
@@ -28,7 +28,7 @@
     "layout components",
     "layout kit"
   ],
-  "author": "Robin Frischmann",
+  "author": "Praney Behl",
   "license": "MIT",
   "devDependencies": {
     "babel": "^5.8.21",
